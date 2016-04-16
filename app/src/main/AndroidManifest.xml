@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ctproject.pocketyasiin">
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <!-- SplashActivity -->
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />"
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- MainActivity -->
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppThemeNoTitle"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="@string/app_name" >
+        </activity>
+        <!-- MainActivity Child-->
+        <activity
+            android:name=".SettingActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="@string/setting_name">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- MainActivity Child-->
+        <activity
+            android:name=".YasinActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="Ya Sin">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- MainActivity Child-->
+        <activity
+            android:name=".KursiActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="Ayat Kursi">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- MainActivity Child-->
+        <activity
+            android:name=".AsmaulActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="Asmaul Husna">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- MainActivity Child-->
+        <activity
+            android:name=".TahlilActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="Tahlil">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- SettingActivity Child-->
+        <activity
+            android:name="com.ctproject.pocketyasiin.setting.BantuanActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="@string/bantuan_name">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SettingActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- SettingActivity Child-->
+        <activity
+            android:name="com.ctproject.pocketyasiin.setting.TentangAplikasiActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="@string/tentang_aplikasi_name">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SettingActivity"
+                >
+            </meta-data>
+        </activity>
+        <!-- SettingActivity Child-->
+        <activity
+            android:name="com.ctproject.pocketyasiin.setting.TentangKamiActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"
+            android:label="@string/tentang_kami_name">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".SettingActivity"
+                >
+            </meta-data>
+        </activity>
+
+    </application>
+</manifest>

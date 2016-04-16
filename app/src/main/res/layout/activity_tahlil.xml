@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorTextWhite"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:text="Tahlil"
+        android:id="@+id/judulTahlil"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:textColor="@color/colorPrimary"/>
+
+        <TextView
+            android:id="@+id/bismillahTahlil"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_below="@+id/judulTahlil"
+            android:text="BISMILLAH"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="@color/colorPrimary"/>
+
+    <View
+        android:id="@+id/pembatasTahlil"
+        android:background="@color/colorPrimary"
+        android:layout_width="fill_parent"
+        android:layout_height="2sp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/bismillahTahlil" />
+
+    <ListView
+        android:id="@+id/listviewTahlil"
+        android:layout_below="@+id/pembatasTahlil"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_weight="1.58"
+        android:divider="@color/colorPrimary"
+        android:dividerHeight="2sp"/>
+
+</RelativeLayout>

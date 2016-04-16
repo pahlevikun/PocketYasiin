@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Pocket Yasin</string>
+    <string name="action_audio">Audio</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="setting_name">Pengaturan</string>
+    <string name="bantuan_name">Bantuan</string>
+    <string name="tentang_kami_name">Tentang Kami</string>
+    <string name="tentang_aplikasi_name">Tentang Aplikasi</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="kirim">Dikarenakan ini adalah aplikasi digital, jika ada kesalahan penulisan seperti "Kepdanya" seharusnya
+    "Kepadanya", dapat melaporkan untuk menjadikan aplikasi ini lebih baik lagi dengan cara kirim kritik dan saran pada
+    menu pengaturan atau bisa juga dengan mengirim email ke email ctproject.developers@gmail.com atau pahlevi.kun@gmail.com
+    dengan subjek "Kritik dan Saran Pocket Yasin", harap tuliskan deskripsi sedetil-detilnya seperti ayat berapa, kesalahan dimana
+    atau terjemahan yang mana. Jika Anda suka dengan aplikasi ini, silahkan bantu bantu menyebarkan aplikasi ini.\n\nTerima kasih.</string>
+    <string name="tentang_aplikasi">Aplikasi ini adalah Yasin dalam bentuk digital versi android dengan terjemahan Bahasa Indonesia.</string>
+    <string name="tentang_aplikasi_sumber">Aplikasi ini dibuat dari data berupa file text dan audio berformat mp3
+    yang digabungkan dan diproses menjadi sebuah aplikasi digital praktis yang berjalan pada android.\n</string>
+    <string name="tentang_aplikasi_quran">Sumber data file text surat Yasin dan terjemahannya : The Quran Publishing
+    Resources https://quran.mursil.com/quran-links/</string>
+    <string name="tentang_aplikasi_audio">Sumber data audio untuk murottal Hani Arrifai: MP3 surat Yasin
+    http://versebyversequran.com/</string>
+    <string name="tentang_pembuat">Assalamualaikum, hai semuanya saya Farhan Yuda Pahlevi, panggil aja Kun.
+    Saya disini sebagai pembuat aplikasi ini, semuanya saya kerjain sendiri loh, kecuali sumber surat yasin dan terjemahannya ya :3
+    \nPengalaman saya... Founder FYP-Kun Online! keren kan? ya tapi sekarang udah gak aktif disana, terus sekarang juga saya anggota &lt;CTProject/>
+    walaupun cuma anggota biasa.
+    \n\nBuat apa bikin aplikasi Yasin? kan udah banyak di playstore.
+    \nIya saya bikin aplikasi ini soalnya buat mengenang nenek saya yang udah meninggal 100 hari yang lalu, hehe.
+    Terus, nanti mau saya kembangin lagi kok, biar bisa jadi pengingat buat kalian semua yang pake aplikasi ini,
+    rencananya sih saya mau bikin aplikasi juz amma, tasbih digital, mungkin kalo bisa mau bikin aplikasi tuntunan tajwid juga, sama aplikasi surat surat yang disunahkan dibaca di waktu tertentu, doain ya bisa.
+    Terus terus... banyak amat :v terus saya mau coba mencari sedikit uang buat ditabung, nanti saya jelasin buat apa.
+    \n\nTerus, bikin aplikasi ini buat mengisi waktu kosong sekaligus memperbaiki diri, iya memperbaiki diri sekalian hafalan lagi surat yasin^^ biar gak lupa, biar siap
+    dan semoga suatu saat nanti diri ini pantas, aamiin. Pantas untuk apa hayoo~ Nah itu, mau nabung juga buat itu, buat nanti dimasa yang akan datang.
+    Ya soalnya banyak kejadian yang udah berlalu, akhirnya saya putusin untuk kayak sekarang ini hehehe. Oia, mohon maaf ya kalo nantinya ada iklan yang mengganggu.
+    \nSemoga aplikasi ini membantu, dan juga sebagai media untuk lebih mengamalkan Surat Yasin, mohon maaf jika ada kekurangan, kelebihan hanya milik Sang Maha Pencipta. Terima kasih,
+    \nWassalamualaikum wr wb.</string>
+    <string name="tentang_ctdev">&lt;CTProject/> adalah sebuah Tim Pengembang yang bergerak dalam berbagai bidang seperti mobile android, jaringan, keamanan, website, dan lainnya.
+        Tim ini terbentuk selama masa kuliah. Struktur Anggota sebagai berikut ini :
+        \n\nMuhammad Ryan R. sebagai Ketua\n&lt;CTProject/>
+        \n\nWirya Ramadhan sebagai Wakil Ketua\n&lt;CTProject/>
+        \n\nAnggota lain :
+        \n- Ardityo P.M.
+        \n- Bintang Monyka
+        \n- Fikrie Anwar
+        \n- Harapan Daeli
+        \n- Haris Wijanarko
+        \n- Malik Abdul Aziz
+        \n- Nugraha Ramadhana
+        \n- Putra Jaisul
+        \n- Yunan Helmi Al Anbari
+        \n\nJika ingin menggunakan jasa kami, silahkan hubungi kami melalui email.</string>
+    <string name="keutamaan">Disebutkan di QS. 36: 21 bahwa orang-orang yang mulai hidup dalam kegelapan rohani karena meninggalkan Al-Qur’an dan juga mereka yang malah menuruti hawa nafsu serta kemauan dari orang-orang yang dianggap ulama akan diberikan pencerahan. Inilah manfaat dari membaca surat yasin yang akan memberi pencerahan dan memotivasi kita untuk kembali dan menjalankan hidup yang benar di jalan Allah.</string>
+    <string name="pertama">Untuk orang baik yang meninggal dunia, ketika surat yasin dibacakan di depannya maka hal ini akan membuat rohnya mendapat ketenangan di alam kubur.</string>
+    <string name="kedua">Untuk jenazah di dalam kubur, ketika dibacakan surat Yasin maka siksanya akan diringankan.</string>
+    <string name="ketiga">Perlindungan dari Allah akan datang bagi kita dari malam hingga pagi menjadi salah satu rahasia hikmah dan kelebihan membaca surat Yasin ketika malam hari.</string>
+    <string name="keempat">Untuk suatu kaum yang sedang sakit atau terkena malapetaka, waktu dibacakan Yasin maka akan lepas dari malapetaka, wabah dan penyakit.</string>
+    <string name="kelima">Perlindungan dari Allah akan datang bagi kita dari pagi hingga sore kalau kita membaca surat Yasin di pagi hari.</string>
+    <string name="keenam">Untuk kita yang punya hajat, membaca Yasin membuat hajat kita dikabulkan oleh Allah.</string>
+    <string name="ketujuh">Untuk orang yang sedang sedih dan susah, manfaat membaca surat Yasin ini akan membuat kesedihan kita dihilangkan oleh Allah.</string>
+    <string name="kedelapan">Bagi orang yang sedang merasa lapar lalu membaca surat Yasin, jangan heran karena mereka akan dikenyangkan oleh Allah.</string>
+    <string name="satu">Aplikasi ini adalah aplikasi surat Yasin dalam bentuk digital dilengkapi dengan terjemahan dan doa-doa lainnya.</string>
+    <string name="dua">Untuk membaca surat Yasin, silahkan tekan tombol Baca Yasin.</string>
+    <string name="tiga">Untuk membaca tahlil, silahkan tekan tombol Baca Tahlil.</string>
+    <string name="empat">Untuk membaca Ayat Kursi, silahkan tekan tombol Baca Ayat Kursi.</string>
+    <string name="lima">Untuk mendengarkan audio, silahkan tekan tanda option di kanan bar, lalu tekan audio.</string>
+</resources>
